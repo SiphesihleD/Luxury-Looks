@@ -37,10 +37,6 @@ Multi-tenancy is enforced at the data layer, keeping each business's services, b
 
 Built using an Agile incremental development methodology. Requirements were gathered through user research with 14 customers and 3 beauty professionals, and the app went through functional, usability, and edge-case testing (including offline booking, concurrent booking conflicts, and invalid input handling) before user acceptance testing.
 
-## Screenshots
-
-*Add a few screenshots or a short screen-recording GIF here — home screen, service selection, booking flow, and admin dashboard.*
-
 ## Setup
 
 1. Clone the repo:
